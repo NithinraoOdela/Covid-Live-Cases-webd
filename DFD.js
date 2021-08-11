@@ -33,5 +33,5 @@ function updateMap() {
         })
 }
 
-let interval = 20000;
+let interval = 2000;
 setInterval( updateMap, interval); 
